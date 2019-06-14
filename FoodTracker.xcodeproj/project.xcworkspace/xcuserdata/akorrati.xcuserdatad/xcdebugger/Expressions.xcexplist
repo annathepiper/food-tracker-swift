@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FoodTrackerUITests.testAtLeastThreeMeals():FoodTrackerUITests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "YourMealsView.testCapreseSaladRating():YourMealsView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NewMealView.testNewMealTapDefaultPhoto():NewMealView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.otherElements.navigationBars[&quot;Photos&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FoodTrackerUITests.testExample():FoodTrackerUITests.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
